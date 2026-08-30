@@ -11,6 +11,7 @@ img {
   font-family: "Retron2000", consolas;
   text-align: center;
   background-color: black;
+  text-shadow: 0px 0px 4px purple;
 }
 .description {
   color: black;
