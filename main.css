@@ -10,8 +10,10 @@ img {
   color: magenta;
   font-family: "Retron2000", consolas;
   text-align: center;
+  background-color: black;
 }
 .description {
   color: black;
   font-family: "Retron2000", consolas;
+  text-align: center;
 }
