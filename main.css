@@ -14,22 +14,26 @@ img {
   font-family: "Retron2000", consolas;
   text-align: left;
   text-shadow: 0px 0px 30px purple, 0px 0px 30px purple, 0px 0px 30px purple;
-  position: fixed;
+  position: static;
 }
 .description {
   color: black;
   font-family: "Retron2000", consolas;
   text-align: center;
+  position: static;
 }
 .test_button {
   background-color: lime;
   border: none;
   border-radius: 7px;
   transition-duration: 0.3s;
+  position: static;
 }
 .test_button:hover {
   background-color: cyan;
   box-shadow: 0 10px 10px green;
   border: none;
   border-radius: 7px;
+  position: static;
+  margin-top: 20px;
 }  
