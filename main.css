@@ -22,3 +22,6 @@ img {
   text-align: center;
   position: static;
 }
+.navigate ul {
+  list-style-type: none;
+  background-color: black;
