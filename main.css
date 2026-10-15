@@ -25,3 +25,11 @@ img {
 .ul {
   list-style-type: none;
   background-color: gray;
+}
+.ul li {
+  float: right;
+}
+.ul li a {
+  display: block;
+  color: white;
+  font-family: "Retron2000", consolas;
