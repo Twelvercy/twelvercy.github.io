@@ -25,6 +25,7 @@ img {
 .ul {
   list-style-type: none;
   background-color: gray;
+  overflow: hidden;
 }
 .ul li {
   float: right;
